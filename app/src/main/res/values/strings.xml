@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="networkState">No network connection</string>
+
+    <string name="Name">Book Name</string>
+    <string name="author">Author</string>
+    <string name="title">Information</string>
+    <string name="search">Search</string>
+</resources>

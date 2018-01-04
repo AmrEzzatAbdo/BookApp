@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="T_BookName">17sp</dimen>
+    <dimen name="T_author">15sp</dimen>
+    <dimen name="T_info">10sp</dimen>
+    <dimen name="progress_margin">150dp</dimen>
+    <dimen name="pading">10dp</dimen>
+    <dimen name="lineHeight">1dp</dimen>
+</resources>
